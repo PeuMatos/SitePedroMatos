@@ -1,0 +1,10 @@
+body {
+     background-image: url(BG.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+    }
+
+#menu li {
+     display: inline;
+     padding: 10px;
+}
